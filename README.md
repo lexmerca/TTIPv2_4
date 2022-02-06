@@ -34,3 +34,21 @@ TTIPv2 Section 4
 ###### 4.3.4 Digital Markets Act (‘DMA’)
 
 ###### 4.3.5 Digital Services Act (‘DSA’)
+
+###### 4.3.6 Draft Data Governance Act (‘DGA’)
+
+###### 4.3.7 Proposed ePrivacy Regulation (‘ePR’)
+
+#### 4.4 US Sources of Electronic Business, Digital, and Data Regulations
+
+###### 4.4.1 A Patchwork of State and Federal Laws
+
+###### 4.4.2 Uniform Commercial Code ('UCC')
+
+###### 4.4.2 Uniform Electronic Transactions Act (‘UETA’)
+
+###### 4.4.3 Electronic Signatures in Global and National Commerce Act (‘E-Sign Act’)
+ 
+#### 4.5 A Note on Artificial Intelligence ('AI') Regulations
+
+#### 4.6 Case Law: EU and US Court Rulings
