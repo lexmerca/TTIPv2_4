@@ -1,7 +1,4 @@
-# TTIPv2_4
-TTIPv2 Section 4
-
-## 4. Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law
+# 4. Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law
 
 #### 4.1 EU Trade and Customs Law
 
