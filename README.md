@@ -1,1 +1,1 @@
-## IV. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_ToC)
+## IV. [Comparing Sources of European Union (EU) and United States (US) Law](https://github.com/lexmerca/TTIPv2_ToC)
