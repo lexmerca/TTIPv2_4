@@ -4,7 +4,7 @@
 
 #### B. [US International Trade and Customs Law](https://github.com/lexmerca/TTIPv2_ToC/blob/main/README.md#b-us-international-trade-and-customs-law)
 
-#### C. [EU Business, Technology, and Privacy Law]()
+#### C. [EU Business, Technology, and Privacy Law](https://github.com/lexmerca/TTIPv2_ToC/blob/main/README.md#c-eu-business-technology-and-privacy-law)
 
 #### D. [US Business, Technology, and Privacy Law](https://github.com/lexmerca/TTIPv2_ToC/blob/main/README.md#d-us-business-technology-and-privacy-law)
 
