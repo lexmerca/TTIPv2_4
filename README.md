@@ -2,7 +2,7 @@
 
 #### A. [EU International Trade and Customs Law]()
 
-#### B. [US International Trade and Customs Law]()
+#### B. [US International Trade and Customs Law](https://github.com/lexmerca/TTIPv2_ToC/blob/main/README.md#b-us-international-trade-and-customs-law)
 
 #### C. [EU Business, Technology, and Privacy Law]()
 
